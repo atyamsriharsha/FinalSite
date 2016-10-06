@@ -1,0 +1,54 @@
+#-------------------------------
+# General Site Settings
+
+title: Atyam Sriharsha
+description: Thinker // Programmer // Developer
+email: atyamsriharsha@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+
+seo:
+  description: 'Atyam Sriharsha Portfolio'
+  rel-author: 'www.facebook.com/atyamsriharsha'
+  rel-publisher: 'www.facebook.com/atyamsriharsha'
+
+blurb: >
+  **Hey There**.
+   I am a 20 years old who works on design and development of applications.
+   I am passionate about building amazing experiences on the web and Playing with different frameworks.
+   I love challenges and complex problems which need to be solved.
+
+skills:
+- {name: C/C++, value: '9'}
+- {name: Python, value: '10'}
+- {name: Javascript, value: '8'}
+- {name: DataStructures and Algorithms, value: '9'}
+- {name: Operating Systems, value: '9'}
+
+
+projects:
+- {name: A Cloud Orchestration Layer, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: A Realtime Event Monitoring System , folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: A MEAN Stack google Map Team App, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: A Personal Artificial Intelligent Assistant, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: A Cross Platform Desktop Video Editing Player, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: A Cross Platform Desktop Music Player, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: A real time Multiplayer Game using Nodejs and socket.io, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: A course registration Application,folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+social:
+- {icon: 'facebook', link: 'https://www.facebook.com/public/Atyam-Sriharsha'}
+- {icon: 'github', link: 'https://www.github.com/atyamsriharsha'}
+- {icon: 'linkedin', link: 'https://in.linkedin.com/in/atyam-sriharsha-b548968a'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
